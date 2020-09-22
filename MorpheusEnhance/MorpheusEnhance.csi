@@ -1,0 +1,16 @@
+[History]
+B0=MorpheusEnhance/frmMain/tmrKill_Timer
+B1=MorpheusEnhance/frmMain/mnuExit_click
+B2=MorpheusEnhance/frmMain/mnuShow_click
+B3=MorpheusEnhance/frmMain/cmdHide_Click
+B4=MorpheusEnhance/frmMain/mnuHide_click
+B5=MorpheusEnhance/frmMain/SysTrayMouseEventHandler
+B6=MorpheusEnhance/frmMain/mnuRestore_Click
+B7=MorpheusEnhance/frmMain/cmdTray_Click
+B8=MorpheusEnhance/frmMain/cmdShow_Click
+B9=MorpheusEnhance/OnTop/TakeOffTop
+B10=MorpheusEnhance/Api
+B11=MorpheusEnhance/frmMain/find_ieframe
+B12=MorpheusEnhance/frmMain/Form_Load
+B13=MorpheusEnhance/frmMain
+B14=MorpheusEnhance/frmMain/Command1_Click
